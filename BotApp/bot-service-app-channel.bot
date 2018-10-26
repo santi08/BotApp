@@ -1,0 +1,52 @@
+{
+  "name": "bot-service-app-channel",
+  "padlock": "Keiv/5V+EipshYlaHTBy6Q==!8FjLW2HiX5LI28HrAfwWOa6miKKsNVrPGjzAjIDNMmTjqjx8TgazJqHcxIBOWNpQ",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "7674bbcf-5984-4393-ac04-ad7443adc79c",
+      "subscriptionId": "757328ab-cfa6-49f0-abdf-2b41426dd22b",
+      "resourceGroup": "BotService",
+      "serviceName": "bot-service-app-channel",
+      "type": "abs",
+      "name": "bot-service-app-channel",
+      "id": "1"
+    },
+    {
+      "connectionString": "ld/Tgnm4Q25z/teU3dN8+g==!4QtX+Fqsk/zvAjInsajCuFtbY9n/dDeP94ZqYjsSQ1jtLT+zSl+za8hIh8FQPCA9MhHuN4H7KV4UhSBZrRVDD3m1caWBnfYPOu0LViybWSyu9HBbjWSBr15CnZL9iEHMS2eduvj6tHp2GmeL7VousYMJxq3M7b1olHTfJ07E31ffTSQaqX5Hc6KFmt6Kdm7BwUvmPgn022jIwrDOoNJErlYXx15EDaOq9cXM87xGXgQ=",
+      "tenantId": "7674bbcf-5984-4393-ac04-ad7443adc79c",
+      "subscriptionId": "757328ab-cfa6-49f0-abdf-2b41426dd22b",
+      "resourceGroup": "BotService",
+      "serviceName": "botserviceappchannel998d",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:3978/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "37bac29c-edbc-4b7a-a539-c44c4d8a6120",
+      "appPassword": "3vFvYhHX/K/E3FmqaxHUjA==!TVh7hMfab6QKaD1yIKi3dV+Z6HqrZE5VDAlqajoLbXI=",
+      "endpoint": "https://bot-service-app.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "instrumentationKey": "0EhNJSmNhQ9jDd7QMEGEMA==!eKzZ19NiQTpLPb2lednNAUa9kSlyRG9cCbalwTY1OjlmYVSssXJsOHHa4oxCs2qw",
+      "applicationId": "95b4a267-3497-4aec-bc72-5efa0e6c006c",
+      "apiKeys": {},
+      "tenantId": "7674bbcf-5984-4393-ac04-ad7443adc79c",
+      "subscriptionId": "757328ab-cfa6-49f0-abdf-2b41426dd22b",
+      "resourceGroup": "BotService",
+      "serviceName": "bot-service-app-channel4ubjcw",
+      "type": "appInsights",
+      "id": "5"
+    }
+  ]
+}
